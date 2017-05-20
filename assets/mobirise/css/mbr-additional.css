@@ -663,6 +663,10 @@ h6,
 #msg-box5-16 H3 {
   color: #ffffff;
 }
+#msg-box5-16 P {
+  text-align: left;
+  color: #ffffff;
+}
 #header3-1a .mbr-section-title,
 #header3-1a .mbr-section-subtitle {
   text-align: center;
